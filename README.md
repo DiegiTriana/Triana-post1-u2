@@ -41,5 +41,5 @@ mvn exec:java -Dexec.mainClass="com.patrones.u2.Main"
 ## Salida de la Main
 
 \\\
-
+![image alt](https://github.com/DiegiTriana/Triana-post1-u2/blob/bf7ab4d10400a32a0ef5d734461eb31d266abfc4/captura%20pantalla%20main%201.png)
 \\\
