@@ -1,6 +1,6 @@
 # creational-patterns
 
-Proyecto- Unidad 2.
+Proyecto Unidad 2.
 Se implementaron los patrones Singleton y Factory Method en Java usando Maven,
 construyendo un sistema simple de notificaciones para un e-commerce.
 
